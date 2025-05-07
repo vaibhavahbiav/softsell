@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/softsell/static/css/main.0468c4c6.css",
-    "main.js": "/softsell/static/js/main.7174cf9d.js",
+    "main.js": "/softsell/static/js/main.22476922.js",
     "static/js/453.7394c4d8.chunk.js": "/softsell/static/js/453.7394c4d8.chunk.js",
     "index.html": "/softsell/index.html",
     "main.0468c4c6.css.map": "/softsell/static/css/main.0468c4c6.css.map",
-    "main.7174cf9d.js.map": "/softsell/static/js/main.7174cf9d.js.map",
+    "main.22476922.js.map": "/softsell/static/js/main.22476922.js.map",
     "453.7394c4d8.chunk.js.map": "/softsell/static/js/453.7394c4d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0468c4c6.css",
-    "static/js/main.7174cf9d.js"
+    "static/js/main.22476922.js"
   ]
 }
