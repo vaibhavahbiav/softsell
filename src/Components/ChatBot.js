@@ -64,8 +64,8 @@ function ChatBot() {
   };
 
   return (
-    <div>
-      <div className="fixed bottom-6 right-6 z-50">
+    <div className=''>
+      <div className="fixed bottom-6 right-6 z-50 animate-bounce">
         {!open && (
           <button onClick={toggleChat} className="bg-orange-600 dark:bg-pink-600 text-white p-4 rounded-full shadow-lg hover:bg-orange-700 dark:hover:bg-pink-700">
             💬
